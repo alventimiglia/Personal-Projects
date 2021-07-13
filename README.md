@@ -1,3 +1,3 @@
 # Personal-Projects
 
-This project is reserved for various data projects.
+This space is reserved for various data projects.
